@@ -2,7 +2,7 @@
 
 Repositório com exercícios feitos durante o curso.
 
-## IMAGEM
+![Logo NodeJs](https://github.com/renanslopes/curso_node_js_do_zero/blob/master/nodejs.jpg?raw=true)
 
 Link: [Node.js do Zero a Mastria com diversos projetos](https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/)
 
